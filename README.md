@@ -117,12 +117,12 @@ Funciones:
 
 
 7.2 Diagrama de Flujo
-<img width="783" height="1174" alt="image" src="https://github.com/user-attachments/assets/9e212b13-2de0-42c1-87e6-6b04e61f2fa1" />
+
 
  
 
 
-
+<img width="783" height="1174" alt="image" src="https://github.com/user-attachments/assets/9e212b13-2de0-42c1-87e6-6b04e61f2fa1" />
 
 
 
