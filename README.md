@@ -3,6 +3,8 @@
 
 
 PROYECTO INTEGRADOR
+<img width="1098" height="1098" alt="image" src="https://github.com/user-attachments/assets/fd08bb43-1cd4-4b98-ac91-2ee00676443b" />
+
 
 EL IMPACTO DE LAS NUEVAS TECNOLOGÍAS EN LA SOCIEDAD: 
 DESARROLLO Y PROYECCIÓN DE SOLUCIONES INFORMÁTICAS
@@ -87,6 +89,7 @@ El sistema permitirá:
 •	Validar datos ingresados.
 •	Mostrar resultados al usuario.
 Cronograma de Actividades
+
 Semana	Actividad
 1	Identificación del problema y análisis de requerimientos
 2	Definición del alcance y objetivos
@@ -97,7 +100,7 @@ Semana	Actividad
 7	Elaboración de documentación y GitHub
 8	Presentación y entrega final
 
-7. DISEÑO DEL SISTEMA
+8. DISEÑO DEL SISTEMA
 7.1 Diagrama de Casos de Uso
 Actor Principal: Usuario
 Funciones:
@@ -108,11 +111,14 @@ Funciones:
 •	Generar una nueva contraseña.
 
 
+<img width="751" height="529" alt="image" src="https://github.com/user-attachments/assets/8df39b13-c6d6-4272-a578-bed4e8c62c29" />
 
 
 
 
 7.2 Diagrama de Flujo
+<img width="783" height="1174" alt="image" src="https://github.com/user-attachments/assets/9e212b13-2de0-42c1-87e6-6b04e61f2fa1" />
+
  
 
 
@@ -129,6 +135,7 @@ GENERADOR DE CONTRASEÑAS
 ↓
 GESTIÓN DE DATOS
  
+<img width="521" height="733" alt="image" src="https://github.com/user-attachments/assets/f941c10e-0086-4195-850c-126195177384" />
 
 
 
@@ -159,11 +166,16 @@ Se implementaron:
 •	Ciclos repetitivos.
 •	Funciones.
 •	Manejo de excepciones.
- 
+ <img width="858" height="572" alt="image" src="https://github.com/user-attachments/assets/23565808-8e70-49cb-9c12-f5c208a6f14f" />
+
 
 Organización del Código
 El código fue desarrollado siguiendo criterios de claridad, legibilidad y mantenimiento.
- 
+
+<img width="779" height="692" alt="image" src="https://github.com/user-attachments/assets/29c014a5-7d63-4716-b672-ddefb92e6025" />
+ <img width="940" height="593" alt="image" src="https://github.com/user-attachments/assets/45180dd5-2c1b-4101-b27f-f22efb7beccc" />
+<img width="940" height="160" alt="image" src="https://github.com/user-attachments/assets/fb4d85d4-0448-4a75-ab58-69bb3280f628" />
+
  
  
 Uso de Herramientas de Desarrollo
@@ -185,7 +197,8 @@ Entre los principales resultados obtenidos se destacan los siguientes:
 •	Presenta una interfaz sencilla e intuitiva, facilitando la interacción del usuario y el uso de la aplicación.
 •	Cumple con los requisitos funcionales definidos para el proyecto y responde de manera adecuada a los diferentes escenarios de prueba realizados.
 En términos generales, los resultados obtenidos demuestran que el software desarrollado cumple satisfactoriamente con los objetivos planteados. El Generador Seguro de Contraseñas constituye una herramienta funcional y confiable para fortalecer la seguridad digital mediante la creación de contraseñas robustas, evidenciando la correcta aplicación de los conocimientos adquiridos durante el desarrollo del proyecto y la capacidad de implementar soluciones informáticas orientadas a resolver necesidades reales.
- 
+ <img width="909" height="404" alt="image" src="https://github.com/user-attachments/assets/c24e0d4e-a2de-4962-8df3-0f98e4cfa388" />
+
 11. IMPLICACIONES Y LIMITACIONES
 Implicaciones
 •	Incrementa la seguridad digital.
